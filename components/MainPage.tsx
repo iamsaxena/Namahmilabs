@@ -594,7 +594,7 @@ export function MainPage() {
           />
           <div className="grid gap-5 md:grid-cols-3">
             {[
-              ["2014", "Founded by Shobhit Shubham Saxena with a long-term belief in research-led innovation."],
+              ["2014", "Founded with a long-term belief in research-led innovation."],
               ["2025", "Reimagined as an AI-first R&D company focused on domain-specific venture creation."],
               ["Future", "A platform for bold ideas across education, healthcare, media and enterprise technology."],
             ].map(([year, copy], index) => (
